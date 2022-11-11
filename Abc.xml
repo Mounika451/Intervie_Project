@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<metar_report_by_region xmlns:gml="http://www.opengis.net/gml">
+<metar_reports>
+<wind_direction>190</wind_direction>
+<visibility>16100</visibility>
+<valid_time>20221029T054500Z</valid_time>
+<insertion_time>20221029T054439.44661Z</insertion_time>
+<weather>{NSW}</weather>
+<icao_site_id>K3U3</icao_site_id>
+<temperature>3</temperature>
+<sensor_status>0</sensor_status>
+<report_type>M</report_type>
+<automation_level>1</automation_level>
+<data>K3U3 290545Z AUTO 19006KT 10SM 03/M10 A3025
+</data>
+<report_number>1</report_number>
+<dew_point>-10</dew_point>
+<location><gml:Point><gml:coordinates>-112.868,46.153</gml:coordinates></gml:Point></location>
+<altimeter>1024</altimeter>
+<wind_speed>3.1</wind_speed>
+<storage_time>20221029T054439.409023Z</storage_time>
+</metar_reports>
+<metar_reports>
+<wind_direction>190</wind_direction>
+<visibility>16100</visibility>
+<valid_time>20221029T054500Z</valid_time>
+<insertion_time>20221029T054439.44661Z</insertion_time>
+<weather>{NSW}</weather>
+<icao_site_id>K3U3</icao_site_id>
+<temperature>3</temperature>
+<sensor_status>0</sensor_status>
+<report_type>M</report_type>
+<automation_level>1</automation_level>
+<data>K3U3 290545Z AUTO 19006KT 10SM 03/M10 A3025
+</data>
+<report_number>1</report_number>
+<dew_point>-10</dew_point>
+<location><gml:Point><gml:coordinates>-112.868,46.153</gml:coordinates></gml:Point></location>
+<altimeter>1024</altimeter>
+<wind_speed>3.1</wind_speed>
+<storage_time>20221029T054439.409023Z</storage_time>
+</metar_reports>
+</metar_report_by_region>
